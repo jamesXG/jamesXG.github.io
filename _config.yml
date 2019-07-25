@@ -1,7 +1,7 @@
 # Site settings
 title: 金刚小仓
 SEOTitle: 金刚小仓的博客 | 金刚小仓
-header-img: img/post-bg-desk.jpg
+header-img: img/d660d6f4-d76a-4347-a4e2-ff77dcf6f6d0.jpg
 email: hanjinchi2017@163.com
 description: "本欲起身离红尘，奈何影子落人间"
 keyword: "金刚小仓, 金刚小仓的博客, jamesXG, 韩金池, 前端"
@@ -98,17 +98,17 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
+#     {
+#         title: "WY",
+#         href: "http://zhengwuyang.com"
+#     },{
+#         title: "简书·BY",
+#         href: "http://www.jianshu.com/u/e71990ada2fd"
+#     },{
+#         title: "Apple",
+#         href: "https://apple.com"
+#     },{
+#         title: "Apple Developer",
+#         href: "https://developer.apple.com/"
+#     }
 ]
